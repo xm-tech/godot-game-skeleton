@@ -77,7 +77,7 @@
 
 ---
 
-## 官方资源
+## 参考资料
 
 - [Best Practices（最佳实践）](https://docs.godotengine.org/en/stable/tutorials/best_practices/index.html)
 - [GDScript 风格指南](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html)

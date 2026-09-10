@@ -77,7 +77,7 @@ A Godot 4 project skeleton following the official **Best Practices**. It ships o
 
 ---
 
-## Official Resources
+## References
 
 - [Best Practices](https://docs.godotengine.org/en/stable/tutorials/best_practices/index.html)
 - [GDScript style guide](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html)
